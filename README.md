@@ -2,10 +2,14 @@
 
 Welcome to the **Instagram Clone** built using React.js! This project is a basic clone of Instagram that showcases the use of React for creating dynamic, responsive, and interactive web applications.
 
-## Live Demo
+## 🚀 Live Demo
 
-Kindly open the project by visiting the following link:
-[https://www.bing.com](https://www.bing.com)
+You can view the live version of the **Instagram Clone** by clicking the link below:
+
+🌐 **[Instagram Clone - Live Demo](https://instagram-clone-tan-three.vercel.app/)**
+
+> **Note:** kindly open the link on **[Bing](https://www.bing.com)**.
+
 
 ## Features
 
